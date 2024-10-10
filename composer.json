@@ -1,11 +1,11 @@
 {
-    "name": "hajiphp/xtel",
+    "name": "Hajinull/xtel",
     "description": "my test libraray",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hajiphp\\Xtel\\": "src/"
+            "Hajinull\\Xtel\\": "src/"
         }
     },
     "require": {}
